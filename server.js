@@ -20,7 +20,7 @@ function Location (query, res){
 }
 function Weather (weatherRes, time){
   this.forecast = weatherRes;
-  this.time = new Date(time *1000).toDateString();
+  this.time = new Date(time * 1000).toDateString();
 } 
 
 function Event(eventRes) {
