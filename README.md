@@ -20,12 +20,12 @@
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
-Number and name of feature: ________________________________
+Number and name of feature: _APIs_
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: ____3 hours_
 
-Start time: _____
+Start time: _900____
 
-Finish time: _____
+Finish time: __1300___
 
-Actual time needed to complete: _____
+Actual time needed to complete: ____4 hours_
