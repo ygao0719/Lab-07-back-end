@@ -19,8 +19,8 @@ function Location (query, res){
   this.longitude = res.results[0].geometry.location.lng;
 }
 function Weather (weatherRes, time){
-  this.forecast = weatherRes.summary;
-  this.time = new Date(time * 1000).toDateString();
+  this.forecast = weatherRes;
+  this.time = new Date(time *1000).toDateString();
 } 
 
 function Event(eventRes) {
